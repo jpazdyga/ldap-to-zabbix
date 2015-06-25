@@ -1,0 +1,1 @@
+# ldap-to-zabbix
